@@ -1,0 +1,6 @@
+{
+  "name": "Android 2026 Developer Guide",
+  "description": "An interactive masterclass and sandbox for building modern Android apps in 2026 with Jetpack Compose, Kotlin, and Material Design 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
